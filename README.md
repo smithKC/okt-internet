@@ -1,5 +1,5 @@
-# oktetov2ray
-# V2Ray Okteto
+# oktetokexue
+# kexue Okteto
 
 ## 注意本项目有封号的风险，不要用常用的github账号
 
